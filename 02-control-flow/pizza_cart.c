@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    char item[20];
+    char item[30];
     int quantity;
     float price, total;
 
